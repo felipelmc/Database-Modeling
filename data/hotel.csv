@@ -1,0 +1,101 @@
+id_hotel|nome_hotel|numero_estrelas|avaliacao_clientes|numero_quartos|wifi|conatato_id_contato|endereco_id_endereco
+1| Hotel do Guilherme |5|88|174|0|1|2.38
+2| Hotel do João |3|83|64|1|2|2.89
+3| Hotel da Roberta|2|49|169|0|3|3.30
+4|Hotel da Galera |4|8|72|0|4|1.10
+5| Hotel do João |1|63|53|1|5|4.70
+6| Hotel da Julia |2|98|127|0|6|3.05
+7| Hotel da Roberta|1|5|51|1|7|5.65
+8| Hotel do Felipe |2|81|99|0|8|1.63
+9| Hotel da Maria |5|65|204|0|9|0.78
+10| Hotel da Roberta|4|1|96|1|10|6.20
+11| Hotel do João |2|5|111|1|11|5.62
+12| Hotel do Felipe |1|99|114|0|12|9.01
+13| Hotel da Julia |5|73|147|0|13|1.81
+14| Hotel do João |1|19|119|1|14|5.52
+15| Hotel do Guilherme |1|60|209|1|15|1.72
+16| Hotel da Julia |5|3|164|0|16|5.67
+17| Hotel do Hugo |4|13|161|1|17|6.28
+18| Hotel do Felipe |3|90|72|0|18|4.07
+19| Hotel da Maria |1|62|155|0|19|8.35
+20|Hotel da Galera |4|31|184|0|20|5.11
+21| Hotel da Julia |1|9|76|1|21|5.09
+22| Hotel do João |4|45|111|1|22|2.64
+23| Hotel da Maria |2|84|156|1|23|6.09
+24|Hotel da Galera |2|69|145|0|24|3.57
+25| Hotel da Maria |4|51|185|0|25|0.58
+26| Hotel do João |4|82|108|1|26|0.62
+27|Hotel da Galera |2|77|68|0|27|7.90
+28| Hotel da Julia |2|16|174|0|28|8.69
+29| Hotel da Roberta|1|87|141|0|29|4.67
+30| Hotel do Felipe |1|49|128|1|30|4.14
+31| Hotel do João |2|71|190|1|31|5.38
+32| Hotel do João |2|85|99|0|32|7.70
+33| Hotel do João |4|45|207|1|33|7.57
+34| Hotel do João |3|69|211|0|34|0.94
+35| Hotel da Roberta|4|98|90|0|35|6.96
+36| Hotel do João |5|81|151|1|36|3.77
+37| Hotel do Felipe |2|51|117|1|37|4.51
+38| Hotel da Maria |4|19|191|0|38|1.75
+39| Hotel da Maria |1|15|210|1|39|0.77
+40| Hotel da Maria |4|17|140|1|40|7.64
+41| Hotel do Hugo |5|99|157|1|41|0.97
+42|Hotel da Galera |1|41|86|0|42|9.20
+43| Hotel da Roberta|5|73|97|0|43|9.39
+44| Hotel do João |4|18|82|0|44|7.93
+45| Hotel do João |1|68|200|0|45|1.88
+46| Hotel do Felipe |4|94|88|1|46|2.92
+47| Hotel da Julia |5|87|157|1|47|9.08
+48| Hotel da Julia |2|43|160|1|48|6.59
+49| Hotel do João |5|70|92|1|49|1.28
+50| Hotel da Roberta|2|46|154|1|50|6.05
+51| Hotel do Hugo |4|19|219|0|51|0.74
+52| Hotel da Roberta|4|25|156|1|52|1.11
+53| Hotel do João |3|27|206|0|53|5.99
+54|Hotel da Galera |4|2|79|1|54|8.35
+55| Hotel da Roberta|2|61|168|1|55|2.71
+56| Hotel do João |5|14|71|1|56|1.49
+57| Hotel da Maria |4|40|194|0|57|8.52
+58| Hotel da Julia |3|76|66|0|58|3.27
+59| Hotel do Hugo |5|85|60|1|59|6.19
+60| Hotel da Maria |1|92|55|0|60|4.79
+61| Hotel da Maria |3|68|175|1|61|4.36
+62| Hotel do Felipe |1|78|96|1|62|3.56
+63| Hotel do Felipe |2|40|78|0|63|1.62
+64| Hotel da Maria |3|18|95|0|64|5.47
+65| Hotel da Julia |2|53|66|1|65|8.28
+66| Hotel do João |3|29|215|1|66|0.40
+67| Hotel da Julia |2|2|62|0|67|4.78
+68|Hotel da Galera |4|13|205|0|68|1.50
+69| Hotel do Felipe |1|99|84|0|69|9.37
+70| Hotel do João |2|5|217|1|70|6.85
+71| Hotel da Maria |3|60|168|1|71|4.08
+72| Hotel da Maria |2|75|188|0|72|3.45
+73| Hotel do Guilherme |1|61|64|0|73|7.72
+74| Hotel do Hugo |5|46|102|1|74|1.32
+75| Hotel da Roberta|4|13|96|1|75|7.33
+76| Hotel da Julia |2|22|219|1|76|8.30
+77| Hotel da Julia |5|99|86|0|77|8.20
+78|Hotel da Galera |4|44|190|0|78|8.48
+79| Hotel do Hugo |5|83|175|0|79|6.28
+80| Hotel do Hugo |3|31|205|1|80|2.74
+81| Hotel da Roberta|4|91|69|1|81|8.97
+82| Hotel do Guilherme |1|62|155|0|82|7.73
+83| Hotel da Maria |5|86|149|0|83|9.77
+84| Hotel do Hugo |2|7|211|1|84|0.73
+85| Hotel do Hugo |5|23|79|0|85|2.15
+86| Hotel da Julia |3|1|63|1|86|6.33
+87| Hotel da Maria |5|69|61|0|87|2.80
+88| Hotel do Felipe |3|5|61|0|88|9.24
+89| Hotel do João |1|25|113|1|89|8.64
+90| Hotel da Julia |2|17|107|1|90|3.41
+91| Hotel da Roberta|3|84|197|0|91|0.90
+92|Hotel da Galera |2|38|76|0|92|3.22
+93| Hotel do Felipe |4|46|158|0|93|4.64
+94| Hotel do Felipe |1|83|83|1|94|5.95
+95| Hotel do João |2|74|62|0|95|6.35
+96| Hotel da Roberta|2|1|140|0|96|0.53
+97| Hotel da Roberta|3|39|140|0|97|9.90
+98| Hotel da Roberta|4|20|216|0|98|7.89
+99| Hotel do Hugo |1|19|149|0|99|1.45
+100| Hotel do João |3|15|119|1|100|5.24
